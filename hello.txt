@@ -1,1 +1,15 @@
 "Hello git,, it's mukenya here my g."
+
+I've used the following steps: 
+Created a new repo on github. 
+Created a new folder on my local machine.
+using the CMD, i navigated to the created folder
+In my Vs code, i created a new file hello.txt, added some content there.
+Opened a new terminal and initialized a git repository
+>>>>Git init
+>>>> Git add remote origin ...................
+>>>>Git add hello.txt
+>>>>Git commit -m "Add hello.txt ................"
+>>>>Git push -u origin master since main brings up an error
+
+Head over to the readme section see some snips. Lovely
